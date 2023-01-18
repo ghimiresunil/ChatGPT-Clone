@@ -16,3 +16,7 @@ The API is extremely adept at carrying on conversations with humans and even wit
 ## 3. Demo
 
 ![demo_clone_gpt](https://user-images.githubusercontent.com/40186859/210706430-f2c4a824-0198-4f98-8429-4d97ef8454f2.png)
+
+## Article
+
+Link: https://graspcoding.com/build-yoown-chatgpt-with-openai-api-and-gradio/
